@@ -63,18 +63,7 @@ Orrego-Oñate,J. & Clifton, K. “Nonlinearities in the relationship between the
 
 Orrego-Oñate,J.; Singleton, P; Totten, J; Schneider, R; and Clifton, K. “Density Differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”, Proceedings of 97th Annual Meeting of the Transportation Research Board. Washington, D.C. January 7-11, 2018.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 hola mundo hola mundo hola hola
 
 
 ## Occupation
