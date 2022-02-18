@@ -111,7 +111,6 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 Orrego-Oñate, J., Singleton, P.A, Totten, J., Schneider, R.J., & Clifton, K.J. “Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”. Friday Transportation Seminar at Portland State University. Febraury, 2018
 
 ## Research Grants Participation
-
 `2020`              
 National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
 ‘Incorporating Bicycle Activity and Vehicle Travel Reduction from Bicycle Infrastructure into Strategic Planning Tools’
