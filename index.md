@@ -13,17 +13,13 @@ title: Jaime Orrego's CV
 ## Education
 
 `2016-2022`
-**Ph.D.(c) Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA.
+**Ph.D.(c) Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA. Expected defense: March 2022
 
 `2011-2013`
 **M.Sc. Civil Engineering - Transportation**, *Universidad de Chile*, Santiago, Chile.
 
 `2005-2010`
 **B.Sc. Civil Engineering**, *Universidad de Chile*, Santiago, Chile.
-
-## Dissertation
-
-**Reconceiving the relationship between the built environment and walking behavior: Examining the samples, scales, and methods in travel behavior research** Committee: Professors Kelly Clifton (chair), Jennifer Dill, Liming Wang, and Chris Monsere. Expected defense date - March 2022
 
 ## Experience
 
