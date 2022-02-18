@@ -147,17 +147,14 @@ Doctorate funding. Becas Chile - CONICYT. Santiago, Chile
 
 `2015`
 *Department of Architecture, Universidad Católica de Chile*, Santiago, Chile
-
 - \- Urban transportation workshop
 
 `2014`
 *Department of Urbanism, Universidad de Chile*, Santiago, Chile
-
 - \- City and Transportation
 
 `2009-2014`
 *Department of Civil Engineering - Transportation Division, Universidad de Chile*, Santiago, Chile
-
 - \- Transportation networks
 - \- Traffic engineer
 - \- Public transportation
