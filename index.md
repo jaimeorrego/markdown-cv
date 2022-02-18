@@ -174,7 +174,7 @@ Doctorate funding - Becas Chile - ANID - Santiago, Chile
 
 Native: Spanish
 
-Proficiency: Engish
+Proficiency: English
 
 Last updated: Febraury 2022
 
