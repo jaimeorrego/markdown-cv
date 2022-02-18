@@ -24,10 +24,10 @@ title: Jaime Orrego's CV
 ## Experience
 
 `2021`
-**Transportation Platform Coordinator**, *Gabriel Boric Electoral campaign*, Santiago, Chile (remote)
+**Transportation Platform Coordinator**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
 
 `2021`
-**Electoral Geospatial Data Scientist**, *Gabriel Boric Electoral campaign*, Santiago, Chile (remote)
+**Electoral Geospatial Data Scientist**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
 
 `2020`
 **Research Assistant**, *Portland State Univeristy*, Portland, OR, USA
@@ -39,7 +39,7 @@ title: Jaime Orrego's CV
 **Research Assistant**, *Portland State Univeristy*, Portland, OR, USA
 
 `2015-2016`
-**Executive Secretary**, *A new transit for Santiago*, Santiago, Chile
+**Executive Secretary**, *A new transit system for Santiago*, Santiago, Chile
 
 `2015`
 **Research Assisant**, *Universidad de Chile*, Santiago, Chile
@@ -56,7 +56,7 @@ Orrego-Oñate, J., Clifton, K., & Hurtubia, R. Spatial segmentation of mode choi
 
 Zhang, Q., Clifton, K. J., Moeckel, R., & Orrego-Oñate, J. (2019). Household Trip Generation and the Built Environment: Does More Density Mean More Trips? Transportation Research Record: Journal of the Transportation Research Board, 2673(5), 596–606. https://doi.org/10.1177/0361198119841854
 
-Singleton, P; Totten, J; Orrego-Oñate, J.; Schneider, R; and Clifton, K. “Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models”, Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35), 58–68.
+Singleton, P; Totten, J; Orrego-Oñate, J.; Schneider, R; and Clifton, K. “Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models”, Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35), 58–68. https://doi.org/10.1177/0361198118773555
 
 ## Refereed Proceedings
 
@@ -147,6 +147,7 @@ Doctorate funding - Becas Chile - ANID - Santiago, Chile
 
 `2015`
 *Department of Architecture, Universidad Católica de Chile*, Santiago, Chile
+
 - \- Urban transportation workshop
 
 `2014`
@@ -175,6 +176,6 @@ Native: Spanish
 
 Proficiency: Engish
 
-Last updated: Febraury 2022 -->
+Last updated: Febraury 2022
 
 
