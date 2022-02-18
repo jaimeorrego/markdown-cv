@@ -44,12 +44,13 @@ title: Jaime Orrego's CV
 ## Publications
 
 Zhang, Q., Clifton, K. J., Moeckel, R., & Orrego-Oñate, J. (2019). Household Trip Generation and the Built Environment: Does More Density Mean More Trips? Transportation Research Record: Journal of the Transportation Research Board, 2673(5), 596–606. https://doi.org/10.1177/0361198119841854
+
 Singleton, P; Totten, J; Orrego-Oñate, J.; Schneider, R; and Clifton, K. “Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models”, Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35), 58–68.
 
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infini.tas. 
 
 `1669`
 Lectiones opticæ.
