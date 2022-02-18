@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jaime Orrego's CV
 ---
-# Isaac Newton
+# Jaime Orrego
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
