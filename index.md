@@ -69,10 +69,10 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 
 ## Refereed Proceedings
 
-### Conferences
-
+`2020`
 **J. Orrego Oñate** and K.J. Clifton. Nonlinearities in the relationship between the built environment and metropolitan structure with automobile and walking modal share. *Proceedings of 99th Annual Meeting of the Transportation Research Board. Washington, D.C. January 12-16*. 2020.
 
+`2018`
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density Differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Proceedings of 97th Annual Meeting of the Transportation Research Board. Washington, D.C. January 7-11*. 2018.
 
 ## Presentations
