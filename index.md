@@ -37,9 +37,9 @@ __Universidad de Chile, Santiago, Chile__
 - M.Sc. Civil Engineering - Transportation
 
 `1667 - death`
-__Trinity College, Cambridge__
+__Universidad de Chile, Santiago, Chile__
 
-- Fellow
+- B.Sc. Civil Engineering
 
 
 
