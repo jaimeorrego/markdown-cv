@@ -6,7 +6,7 @@ title: Jaime Orrego's CV
 +1 (971) 712 8941
 
 <div id="webaddress">
-<a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a> -
+<a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a> |
 <a href="https://orcid.org/0000-0001-9368-2909"><i class="ai ai-orcid"></i> 0000-0001-9368-2909</a> 
 </div>
 
@@ -108,7 +108,7 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 ### Others
 
 `2018` 
-Orrego-Oñate, J., Singleton, P.A, Totten, J., Schneider, R.J., & Clifton, K.J. “Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”. Friday Transportation Seminar at Portland State University. Febraury, 2018
+Orrego-Oñate, J., Singleton, P.A, Totten, J., Schneider, R.J., & Clifton, K.J. “Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”. Friday Transportation Seminar at Portland State University. February, 2018
 
 ## Research Grants Participation
 `2020`              
@@ -119,17 +119,14 @@ PI: Joe Broach, PhD
 `2017-2018`    
 National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
 ‘Developing Data, Models, and Tools to Enhance Transportation Equity’
-PI: Amy Lubitow, PhD
 
 `2016-2018`
 National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
 ‘Transferability & forecasting Pedestrian Index of the Environment for modeling applications’
-PI: Kelly J. Clifton, PhD
 
 `2015-2016`
 Universidad de Chile & German DLR / Institute of Transport Research, Universidad de Chile, Santiago, Chile                                              
 ‘Changing Mobility in Cutting Edge Cities’
-PI: Ricardo Hurtubia, PhD
 
 ## Fellowships
 
