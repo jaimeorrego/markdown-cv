@@ -6,14 +6,14 @@ title: Jaime Orrego's CV
 +1 (971) 712 8941
 
 <div id="webaddress">
-<a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a> 
+<a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a> |
 <a href="https://orcid.org/0000-0001-9368-2909"><i class="ai ai-orcid"></i> 0000-0001-9368-2909</a> 
 </div>
 
 ## Education
 
 `2016-2022`
-**Ph.D.(c), Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA. (Expected March 2022)
+**Ph.D.(c) Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA. (Expected March 2022)
 
 `2011-2013`
 **M.Sc. Civl Engineering - Transportation**, *Universidad de Chile*, Santiago, Chile.
