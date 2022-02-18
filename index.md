@@ -135,7 +135,7 @@ Changing Mobility in Cutting Edge Cities.
 ## Fellowships
 
 `2020`
-Fellowship for research in international research. **Sylff Foundation**. Oregon, USA
+Fellowship for research with international data. **Sylff Foundation**. Oregon, USA
 
 `2019` 
 Short term grant for doctoral students. **DAAD**, Munich, Germany.
