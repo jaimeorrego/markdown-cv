@@ -60,19 +60,19 @@ Singleton, P; Totten, J; Orrego-Oñate, J.; Schneider, R; and Clifton, K. “Mak
 
 ## Refereed Proceedings
 
-###Conferences
+### Conferences
 
 Orrego-Oñate,J. & Clifton, K. “Nonlinearities in the relationship between the built environment and metropolitan structure with automobile and walking modal share”, Proceedings of 99th Annual Meeting of the Transportation Research Board. Washington, D.C. January 12-16, 2020.
 
 Orrego-Oñate,J.; Singleton, P; Totten, J; Schneider, R; and Clifton, K. “Density Differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”, Proceedings of 97th Annual Meeting of the Transportation Research Board. Washington, D.C. January 7-11, 2018.
 
-###Reports
+### Reports
 
 Clifton, K.,J, Orrego-Oñate, J., Singleton, P., & Schneider, R.J. Transferability & Forecasting of the Pedestrian Index of the Environment (PIE) for Modeling Applications. NITC-RR-1028. Portland, OR: Transportation Research and Education Center (TREC), 2019
 
 ## Presentations
 
-###Conferences
+### Conferences
 
 `2021`
 Orrego-Oñate, J., Clifton, K., & Hurtubia, R. “Spatial segmentation of mode choice behavior: a latent class approach based on accessibility and the built environment”. World Symposium on Transport and Land Use Research. Portland, OR (online) September, 2021
@@ -100,12 +100,12 @@ Singleton, P. A., Clifton K. J., Totten, J., & Orrego, J. “Assessing the trans
 `2013`
 Basso, L.J., Cortés, C.E., & Orrego, J. “Funciones de Congestión en Corredores Segregados de Buses usando Microsimulación”. Presented at the XVI Congreso Chileno de Ingeniería de Transporte, Santiago, Chile. August, 2013
 
-###Workshops
+### Workshops
 
 `2017`
 Walk, don't run? Advancing the state of the practice in pedestrian demand modeling workshop. Transportation and Communities Summit. Portland, Oregon. September, 2017
 
-###Others
+### Others
 
 `2018` 
 Orrego-Oñate, J., Singleton, P.A, Totten, J., Schneider, R.J., & Clifton, K.J. “Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”. Friday Transportation Seminar at Portland State University. Febraury, 2018
