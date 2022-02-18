@@ -84,7 +84,7 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 **J. Orrego Oñate** and K.J. Clifton. Nonlinearities in the relationship between the built environment and metropolitan structure with automobile and walking modal share. Presented at *the 99th Annual Meeting of the Transportation Research Board, Washington, D.C.* January, 2020.
 
 `2019`
-Q. Zhang, K.J. Clifton, R. Moeckel, and J. Orrego Oñate. Household Trip Generation and the Built Environment: Does More Density Mean More Trips?. Presented at the *98th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2019.
+Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips?. Presented at the *98th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2019.
 
 `2018`
 **J. Orrego Oñate** and K.J. Clifton. Exploring built environment relationships with walking between and within metropolitan areas. Presented at the *19th International Conference on Walking and Liveable Communities WALK21, Bogotá, Colombia*. October, 2018.
@@ -143,18 +143,18 @@ Short term grant for doctoral students. **DAAD**, Munich, Germany.
 `2016`
 Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile 
 
-## Assistant teaching
+## Assistant Teaching
 
 `2015`
-*Department of Architecture, Universidad Católica de Chile*, Santiago, Chile
+*Department of Architecture, Universidad Católica de Chile, Santiago, Chile*
 - \- Urban transportation workshop
 
 `2014`
-*Department of Urbanism, Universidad de Chile*, Santiago, Chile
+*Department of Urbanism, Universidad de Chile, Santiago, Chile*
 - \- City and Transportation
 
 `2009-2014`
-*Department of Civil Engineering - Transportation Division, Universidad de Chile*, Santiago, Chile
+*Department of Civil Engineering - Transportation Division, Universidad de Chile, Santiago, Chile*
 - \- Transportation networks
 - \- Traffic engineer
 - \- Public transportation
