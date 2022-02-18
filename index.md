@@ -110,34 +110,35 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 `2018` 
 Orrego-Oñate, J., Singleton, P.A, Totten, J., Schneider, R.J., & Clifton, K.J. “Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas”. Friday Transportation Seminar at Portland State University. February, 2018
 
+
 ## Research Grants Participation
 
-`2020`              
-National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
+`2020`
+National Institute of Transportation and Communities. Portland State University, Portland, OR, USA
 "Incorporating Bicycle Activity and Vehicle Travel Reduction from Bicycle Infrastructure into Strategic Planning Tools"
 
 `2017-2018`    
-National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
+National Institute of Transportation and Communities. Portland State University, Portland, OR, USA
 "Developing Data, Models, and Tools to Enhance Transportation Equity"
 
 `2016-2018`
-National Institute of Transportation and Communities, at Portland State University, Portland, OR, USA
+National Institute of Transportation and Communities. Portland State University, Portland, OR, USA
 "Transferability & forecasting Pedestrian Index of the Environment for modeling applications"
 
 `2015-2016`
-Universidad de Chile & German DLR / Institute of Transport Research, Universidad de Chile, Santiago, Chile                                              
+Universidad de Chile & German DLR / Institute of Transport Research. Universidad de Chile, Santiago, Chile                                              
 "Changing Mobility in Cutting Edge Cities"
 
 ## Fellowships
 
 `2020`
-Fellowship for research in international research. Sylff Foundation. Oregon, USA
+Fellowship for research in international research. **Sylff Foundation**. Oregon, USA
 
 `2019` 
-Short term grant for doctoral students. DAAD, Munich, Germany.
+Short term grant for doctoral students. **DAAD**, Munich, Germany.
 
 `2016`
-Doctorate funding. Becas Chile - CONICYT. Santiago, Chile 
+Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile 
 
 ## Assistant teaching
 
@@ -169,6 +170,6 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: February 2022
+Last updated: February 22
 
 
