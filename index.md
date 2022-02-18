@@ -56,14 +56,16 @@ title: Jaime Orrego's CV
 
 **J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use*. In review.
 
+`2019`
 Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
 
+`2018`
 P. Singleton, J. Totten, **J. Orrego Oñate**, R. Schneider, and K.J. Clifton. Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models. *Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35)*. doi: https://doi.org/10.1177/0361198118773555. 2018
 
 ### Reports
 
+`2019`
 K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferability & Forecasting of the Pedestrian Index of the Environment (PIE) for Modeling Applications. *NITC-RR-1028. Portland, OR: Transportation Research and Education Center (TREC)*. 2019
-
 
 ## Refereed Proceedings
 
@@ -112,7 +114,6 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 
 `2018` 
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Friday Transportation Seminar at Portland State University*. February, 2018.
-
 
 ## Research Grants Participation
 
