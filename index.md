@@ -54,7 +54,7 @@ title: Jaime Orrego's CV
 
 ### Journals
 
-**J. Orrego-Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use*. In review.
+**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use*. In review.
 
 Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
 
@@ -78,7 +78,7 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 ### Conferences
 
 `2021`
-**J. Orrego-Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on accessibility and the built environment. Presented at *World Symposium on Transport and Land Use Research. Portland, OR (online)*. September, 2021.
+**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on accessibility and the built environment. Presented at *World Symposium on Transport and Land Use Research. Portland, OR (online)*. September, 2021.
 
 `2020`
 **J. Orrego Oñate** and K.J. Clifton. Nonlinearities in the relationship between the built environment and metropolitan structure with automobile and walking modal share. Presented at *the 99th Annual Meeting of the Transportation Research Board, Washington, D.C.* January, 2020.
