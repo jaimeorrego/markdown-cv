@@ -135,13 +135,13 @@ PI: Ricardo Hurtubia, PhD
 ## Fellowships
 
 `2020`
-Fellowship for research in international research. Sylff Fellowship, Sylff Foundation. Oregon, USA
+Fellowship for research in international research. Sylff Foundation. Oregon, USA
 
 `2019` 
 Short term grant for doctoral students. DAAD, Munich, Germany.
 
 `2016`
-Doctorate funding - Becas Chile - ANID - Santiago, Chile 
+Doctorate funding. Becas Chile - CONICYT. Santiago, Chile 
 
 ## Assistant teaching
 
