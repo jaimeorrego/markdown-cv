@@ -3,11 +3,10 @@ layout: cv
 title: Jaime Orrego's CV
 ---
 # Jaime Orrego
-Physicist, Mathematician, Cambridge professor.
+
 
 <div id="webaddress">
 <a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
