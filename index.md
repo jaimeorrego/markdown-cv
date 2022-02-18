@@ -164,7 +164,7 @@ Doctorate funding - Becas Chile - ANID - Santiago, Chile
 - \- Transportation Stochastics processes
 - \- Transportation system analysis
 
-## Referee**
+## Referee
 
 `2018-present`
 **Journals**: *Environment and Planning B: Urban Analytics and City Science*, *Journal of Transportation and Land Use*, *Transportation Research Board*
