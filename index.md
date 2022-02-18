@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jaime Orrego's CV
 ---
-# Isaac Newton
+# Jaime Orrego Oñate
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="jaime.orrego@gmail.com">email</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -27,13 +27,14 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2022`
+__Portland State University, Oregon, United States of America__
+- Ph.D. Candidate in Civil and Environmental Engineering (Expected defense date - March 2022)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2013`
+__Universidad de Chile, Santiago, Chile__
 
-- Sizar
+- M.Sc. Civil Engineering - Transportation
 
 `1667 - death`
 __Trinity College, Cambridge__
