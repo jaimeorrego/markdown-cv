@@ -2,57 +2,49 @@
 layout: cv
 title: Jaime Orrego's CV
 ---
-# Jaime Orrego
+# Jaime Orrego Oñate
 
 
 <div id="webaddress">
 <a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2022`
+**Ph.D.(c), Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA. (Expected March 2022)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2013`
+**M.Sc. Civl Engineering - Transportation**, *Universidad de Chile*, Santiago, Chile.
 
-- Sizar
+`2005-2010`
+**B.Sc. Civl Engineering**, *Universidad de Chile*, Santiago, Chile.
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2021`
+**Transportation platform coordinator**, *Gabriel Boric Electoral campaign*, Santiago, Chile (remote)
+`2021`
+**Electoral inteligence data scientist**, *Gabriel Boric Electoral campaign*, Santiago, Chile (remote)
+`2020`
+**Research assistant**, *Portland State Univeristy*, Portland, OR, USA
+`2019`
+**Research assistant**, *Technische Universität München*, Munich, Germany
+`2016-2018`
+**Research assistant**, *Portland State Univeristy*, Portland, OR, USA
+`2015-2016`
+**Executive Secretary**, *A new transit for Santiago*, Santiago, Chile
+`2015`
+**Research assisant**, *Universidad de Chile*, Santiago, Chile
+`2014-2016`
+**Provost data analyst**, *Universidad de Chile*, Santiago, Chile
+`2013-2014`
+**Traffic engineer**, *Traffic Control Unit*, Santiago, Chile
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Zhang, Q., Clifton, K. J., Moeckel, R., & Orrego-Oñate, J. (2019). Household Trip Generation and the Built Environment: Does More Density Mean More Trips? Transportation Research Record: Journal of the Transportation Research Board, 2673(5), 596–606. https://doi.org/10.1177/0361198119841854
+Singleton, P; Totten, J; Orrego-Oñate, J.; Schneider, R; and Clifton, K. “Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models”, Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35), 58–68.
 
 ### Journals
 
