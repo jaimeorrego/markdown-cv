@@ -13,7 +13,7 @@ title: Jaime Orrego's CV
 ## Education
 
 `2016-2022`
-**Ph.D.(c) Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA. Expected defense: March 2022
+**Ph.D. Civil and Environmental Engineering**, *Portland State University*, Portland, OR, USA.
 
 `2011-2013`
 **M.Sc. Civil Engineering - Transportation**, *Universidad de Chile*, Santiago, Chile.
@@ -22,6 +22,9 @@ title: Jaime Orrego's CV
 **B.Sc. Civil Engineering**, *Universidad de Chile*, Santiago, Chile.
 
 ## Experience
+
+`2022`
+**Data scientist**, *Transportation and Research Education Center (TREC)*, Santiago, Chile (remote)
 
 `2021`
 **Transportation Platform Coordinator**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
