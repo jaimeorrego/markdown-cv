@@ -177,6 +177,6 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: February 2022
+Last updated: September 2022
 
 
