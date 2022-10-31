@@ -24,13 +24,13 @@ title: Jaime Orrego's CV
 ## Experience
 
 `2022`
-**Data scientist**, *Transportation and Research Education Center (TREC)*, Santiago, Chile (remote)
+**Research Associate**, *Transportation and Research Education Center (TREC)*, Portland, Oregon
 
 `2021`
 **Transportation Platform Coordinator**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
 
 `2021`
-**Electoral Geospatial Data Scientist**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
+**Electoral Data Scientist**, *Gabriel Boric Electoral Campaign*, Santiago, Chile (remote)
 
 `2020`
 **Research Assistant**, *Portland State Univeristy*, Portland, OR, USA
@@ -147,6 +147,13 @@ Short term grant for doctoral students. **DAAD**, Munich, Germany.
 `2016`
 Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile 
 
+## Other Awards
+
+`2018`
+LANDMRX, Pablo Alfaro, Valentina Rozas, TLS Landscape Architecture, Jiawen Chen, Wanpeng Zu, **J. Orrego Oñate**. Valparaiso, Chile
+International Contest: Paseo del Mar Urban Park - Ministerio de Vivienda y Urbanismo - Gobierno de Chile.
+Honorary mention
+
 ## Assistant Teaching
 
 `2015`
@@ -163,7 +170,7 @@ Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile
 - \- Traffic engineer
 - \- Public transportation
 - \- Traffic flow theory
-- \- Transportation Stochastics processes
+- \- Transportation stochastics processes
 - \- Transportation system analysis
 
 ## Referee
