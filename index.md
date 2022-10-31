@@ -151,10 +151,11 @@ Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile
 
 `2018`
 Honorary Mention  
-LANDMRX, Pablo Alfaro, Valentina Rozas, TLS Landscape Architecture, Jiawen Chen, Wanpeng Zu, **J. Orrego Oñate**  
-Valparaiso, Chile  
 International Contest - Paseo del Mar Urban Park - Ministerio de Vivienda y Urbanismo - Gobierno de Chile  
-
+LANDMRX, Pablo Alfaro, Valentina Rozas, TLS Landscape Architecture, Jiawen Chen, Wanpeng Zu,  
+**J. Orrego Oñate**  
+Valparaiso, Chile  
+ 
 
 ## Assistant Teaching
 
