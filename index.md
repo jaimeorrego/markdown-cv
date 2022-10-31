@@ -147,7 +147,7 @@ Fellowship for research with international data. **Sylff Foundation**. Oregon, U
 Short term grant for doctoral students. **DAAD**. Munich, Germany
 
 `2016-2017`
-Deans Award. **Maseeh College of Engineering and Computer Science**. Portland, OR, USA
+Deans Award. **Maseeh College of Engineering and Computer Science. Portland State University**. Portland, OR, USA
 
 `2016`
 Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile 
