@@ -70,6 +70,8 @@ P. Singleton, J. Totten, **J. Orrego Oñate**, R. Schneider, and K.J. Clifton. M
 `2019`
 K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferability & Forecasting of the Pedestrian Index of the Environment (PIE) for Modeling Applications. *NITC-RR-1028. Portland, OR: Transportation Research and Education Center (TREC)*. 2019
 
+
+
 ## Refereed Proceedings
 
 `2020`
