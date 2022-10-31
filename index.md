@@ -103,7 +103,7 @@ Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Gen
 
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Analyzing the relationship of walking and the built environment. Presented at the *9th Annual Transportation and Communities Summit, Portland, OR.* September, 2017
 
-P.A. Singleton, K.J. Clifton , J. Totten, and **J. Orrego Oñate**. Assessing the transferability of the Pedestrian Index of the Environment (PIE) walkability measure for pedestrian modeling. Presented at the *16th Transportation Research Board National Transportation Planning Applications Conference, Raleigh, NC*. May, 2017.
+P.A. Singleton, K.J. Clifton , J. Totten, and **J. Orrego Oñate**. Assessing the transferability of the Pedestrian Index of the Environment (PIE) walkability measure for pedestrian modeling. Presented at the *16th Transportation Research Board National Transportation Planning Applications Conference, Raleigh, NC*. May, 2017
 
 `2013`
 L.J. Basso, C.E. Cortés, **J. Orrego Oñate**. Funciones de Congestión en Corredores Segregados de Buses usando Microsimulación. Presented at the *XVI Congreso Chileno de Ingeniería de Transporte, Santiago, Chile*. August, 2013
