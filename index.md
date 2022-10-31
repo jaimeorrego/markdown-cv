@@ -116,7 +116,7 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 ### Others
 
 `2018` 
-**J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Friday Transportation Seminar at Portland State University*. February, 2018.
+**J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Friday Transportation Seminar at Portland State University*. February, 2018
 
 ## Research Grants Participation
 
