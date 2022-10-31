@@ -190,6 +190,6 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: September 2022
+Last updated: October 2022
 
 
