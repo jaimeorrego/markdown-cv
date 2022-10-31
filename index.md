@@ -155,7 +155,6 @@ International Contest - Paseo del Mar Urban Park - Ministerio de Vivienda y Urba
 LANDMRX, Pablo Alfaro, Valentina Rozas, TLS Landscape Architecture, Jiawen Chen, Wanpeng Zu,  
 **J. Orrego Oñate**  
 Valparaiso, Chile  
- 
 
 ## Assistant Teaching
 
