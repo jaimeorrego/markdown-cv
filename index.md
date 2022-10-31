@@ -142,7 +142,7 @@ Changing Mobility in Cutting Edge Cities.
 Fellowship for research with international data. **Sylff Foundation**. Oregon, USA
 
 `2019` 
-Short term grant for doctoral students. **DAAD**, Munich, Germany.
+Short term grant for doctoral students. **DAAD**, Munich, Germany
 
 `2016`
 Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile 
@@ -151,7 +151,7 @@ Doctorate funding. **Becas Chile - CONICYT**. Santiago, Chile
 
 `2018`
 LANDMRX, Pablo Alfaro, Valentina Rozas, TLS Landscape Architecture, Jiawen Chen, Wanpeng Zu, **J. Orrego Oñate**. Valparaiso, Chile
-International Contest: Paseo del Mar Urban Park - Ministerio de Vivienda y Urbanismo - Gobierno de Chile.
+International Contest: Paseo del Mar Urban Park - Ministerio de Vivienda y Urbanismo - Gobierno de Chile
 Honorary mention
 
 ## Assistant Teaching
