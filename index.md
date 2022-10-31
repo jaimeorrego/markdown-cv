@@ -142,7 +142,7 @@ Changing Mobility in Cutting Edge Cities.
 Fellowship for research with international data. **Sylff Foundation**. Oregon, USA
 
 `2019` 
-Short term grant for doctoral students. **DAAD**, Munich, Germany
+Short term grant for doctoral students. **DAAD**. Munich, Germany
 
 `2016-2017`
 Deans Award. **Maseeh College of Engineering and Computer Science**. Portland, OR, USA
