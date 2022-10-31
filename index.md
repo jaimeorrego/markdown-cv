@@ -96,7 +96,7 @@ Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Gen
 
 **J. Orrego Oñate**, K. Clifton, P. Singleton, and R. Schneider. An exploration of the inter- and intra-regional relationships between the built environment and walking. Presented at the *15th International Conference on Travel Behavior and Research, Santa Barbara, CA*. July, 2018.
 
-**J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. Presented at the *97th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2018.
+**J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. Presented at the *97th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2018
 
 `2017`
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Transferring the Pedestrian Index of the Environment. Presented at the *57th ACSP Annual Meeting, Denver, CO.* October, 2017
