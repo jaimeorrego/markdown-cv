@@ -22,6 +22,9 @@ title: Jaime Orrego's CV
 
 ## Experience
 
+`2023`
+**Postdoctoral Researcher**, *GEMOTT, Departamento de Geografía de la Universidad Autónoma de Barcelona*, Barcelona, Spain
+
 `2022`
 **Research Associate**, *Transportation and Research Education Center (TREC)*, Portland, Oregon
 
@@ -56,7 +59,8 @@ title: Jaime Orrego's CV
 
 ### Journals
 
-**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. doi: https://doi.org/10.5198/jtlu.2023.2115 2023
+`2023`
+**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
 
 `2019`
 Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
