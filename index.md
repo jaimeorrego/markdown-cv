@@ -3,10 +3,9 @@ layout: cv
 title: Jaime Orrego's CV
 ---
 # Jaime Orrego Oñate
-+1 (971) 712 8941
 
 <div id="webaddress">
-<a href="jaime.orrego@gmail.com">jaime.orrego@gmail.com</a> |
+<a href="jaime.orrego@gmail.com">jaime.orrego@uab.cat</a> |
 <a href="https://orcid.org/0000-0001-9368-2909"><i class="ai ai-orcid"></i> 0000-0001-9368-2909</a> 
 </div>
 
@@ -57,7 +56,7 @@ title: Jaime Orrego's CV
 
 ### Journals
 
-**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use*. In review.
+**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. doi: https://doi.org/10.5198/jtlu.2023.2115 2023
 
 `2019`
 Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
@@ -83,6 +82,10 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 ## Presentations
 
 ### Conferences
+
+`2023`
+**J. Orrego Oñate**, MB. Fernández Nuñez, and O. Marquet. Diminishing returns of additional active travel infrastructure?
+Evaluating Barcelona's Decade of Sustainable Transportation Progress. Presented at *9th EUGEO Congress, Barcelona, Spain*. September, 2023.
 
 `2021`
 **J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on accessibility and the built environment. Presented at *World Symposium on Transport and Land Use Research. Portland, OR (online)*. September, 2021.
@@ -190,6 +193,6 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: October 2022
+Last updated: November 2022
 
 
