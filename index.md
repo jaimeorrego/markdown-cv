@@ -22,7 +22,7 @@ title: Jaime Orrego's CV
 
 ## Experience
 
-`2023`
+`2023-ongoing`
 **Postdoctoral Researcher**, *GEMOTT, Departamento de Geografía de la Universidad Autónoma de Barcelona*, Barcelona, Spain
 
 `2022`
