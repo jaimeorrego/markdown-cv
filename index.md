@@ -70,6 +70,10 @@ P. Singleton, J. Totten, **J. Orrego Oñate**, R. Schneider, and K.J. Clifton. M
 
 ### Reports
 
+`2024`
+J. Broach, K. Currans, J. Roll, **J. Orrego Oñate**. Incorporating Bicycle Activity And Vehicle Travel Reduction
+From Bicycle Infrastructure Into Strategic Planning Tools. *NITC-TT-1314. National Institute for Transportation and Communities*. 2024
+
 `2019`
 K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferability & Forecasting of the Pedestrian Index of the Environment (PIE) for Modeling Applications. *NITC-RR-1028. Portland, OR: Transportation Research and Education Center (TREC)*. 2019
 
