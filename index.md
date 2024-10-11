@@ -58,6 +58,9 @@ title: Jaime Orrego's CV
 ## Publications
 
 ### Journals
+`2024`
+**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure? Evaluating Barcelona's Decade of Sustainable Transportation Progress
+. *Journal of Urban Mobility*. Forthcoming 
 
 `2023`
 **J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
@@ -90,6 +93,8 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 ## Presentations
 
 ### Conferences
+`2024`
+**J. Orrego Oñate** and O. Marquet.  Urban Density and Mode Selection: The Interplay Between Calculated and Perceived Accessibility. Presented at *Proximity Planning International Congress, Madrid, Spain*. June, 2024.
 
 `2023`
 **J. Orrego Oñate**, MB. Fernández Nuñez, and O. Marquet. Diminishing returns of additional active travel infrastructure?
@@ -102,7 +107,7 @@ Evaluating Barcelona's Decade of Sustainable Transportation Progress. Presented 
 **J. Orrego Oñate** and K.J. Clifton. Nonlinearities in the relationship between the built environment and metropolitan structure with automobile and walking modal share. Presented at *the 99th Annual Meeting of the Transportation Research Board, Washington, D.C.* January, 2020.
 
 `2019`
-Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips?. Presented at the *98th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2019.
+Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? Presented at the *98th Annual Meeting of the Transportation Research Board, Washington, D.C.*. January, 2019.
 
 `2018`
 **J. Orrego Oñate** and K.J. Clifton. Exploring built environment relationships with walking between and within metropolitan areas. Presented at the *19th International Conference on Walking and Liveable Communities WALK21, Bogotá, Colombia*. October, 2018.
@@ -132,6 +137,21 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Friday Transportation Seminar at Portland State University*. February, 2018
 
 ## Research Grants Participation
+`2024-2028`
+*European Research Council (ERC) Starting Grant 2023. Universitat Autonoma de Barceloa, Barcelona, Spain*.
+ATRAPA: The active travel backlash paradox: opposition and acceptability determinants of built environment-based sustainable travel interventions.
+
+`2023-2024`
+*LaCaixa Foundation. Social Observatory. RecerCaixa. Universitat Autonoma de Barceloa, Barcelona, Spain*.
+Social Transport Equity by Planning for Proximity.
+
+`2023-2024`
+*Ministerio de Ciencia, Innovación y Universidades. Proyectos estratégicos orientados transición ecológica y transición digital 2021. Universitat Autonoma de Barceloa, Barcelona, Spain*.
+ECOMOV: La transición ecológica en la movilidad y el transporte. El papel de la proximidad urbana. 
+
+`2023-2024`
+*Ministerio de Ciencia, innovación y universidades. Pruebas de Concepto 2022. Universitat Autonoma de Barceloa, Barcelona, Spain*.
+Herramientas cartográficas para la gestión sostenible de la movilidad urbana (MOBITOOLS).
 
 `2020`
 *National Institute of Transportation and Communities. Portland State University, Portland, OR, USA*.
@@ -151,11 +171,14 @@ Changing Mobility in Cutting Edge Cities.
 
 ## Fellowships
 
+`2025-2026`
+Postdoctoral Fellowship. **Juan de la Cierva**. Barcelona, Spain
+
 `2020`
 Fellowship for research with international data. **Sylff Foundation**. Oregon, USA
 
 `2019` 
-Short term grant for doctoral students. **DAAD**. Munich, Germany
+Short-term grant for doctoral students. **DAAD**. Munich, Germany
 
 `2016-2017`
 Deans Award. **Maseeh College of Engineering and Computer Science. Portland State University**. Portland, OR, USA
@@ -201,6 +224,6 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: November 2023
+Last updated: October 2024
 
 
