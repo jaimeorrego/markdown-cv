@@ -60,7 +60,7 @@ title: Jaime Orrego's CV
 ### Journals
 
 `2024`
-**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi:https://doi.org/10.1016/j.urbmob.2024.100092
+**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi: https://doi.org/10.1016/j.urbmob.2024.100092
 
 `2023`
 **J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
@@ -133,7 +133,7 @@ L.J. Basso, C.E. Cortés, **J. Orrego Oñate**. Funciones de Congestión en Corr
 ### Workshops
 
 `2024`
-Urban Policy Acceptability - University of Westminster, Molde University, and Universitat Autònoma de Barcelona.  Casa Convalescència, UAB. September, 2017.
+Urban Policy Acceptability - University of Westminster, Molde University, and Universitat Autònoma de Barcelona.  Casa Convalescència, UAB. November, 2024.
 
 `2017`
 Walk, don't run? Advancing the state of the practice in pedestrian demand modeling workshop.  *9th Annual Transportation and Communities Summit, Portland, OR.* September, 2017.
