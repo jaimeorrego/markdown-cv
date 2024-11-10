@@ -58,9 +58,9 @@ title: Jaime Orrego's CV
 ## Publications
 
 ### Journals
+
 `2024`
-**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure? Evaluating Barcelona's Decade of Sustainable Transportation Progress
-. *Journal of Urban Mobility*. Forthcoming 
+**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi:https://doi.org/10.1016/j.urbmob.2024.100092
 
 `2023`
 **J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
@@ -93,6 +93,10 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 ## Presentations
 
 ### Conferences
+
+`2024`
+**J. Orrego Oñate**, E. Martells, and O. Marquet. Travel Behavior Trends in the Peri-Urban and Suburban Areas of Barcelona. Presented at *Urban Transitions 2024*, Sitges, Spain, November 2024.
+
 `2024`
 **J. Orrego Oñate** and O. Marquet.  Urban Density and Mode Selection: The Interplay Between Calculated and Perceived Accessibility. Presented at *Proximity Planning International Congress, Madrid, Spain*. June, 2024.
 
@@ -127,6 +131,9 @@ P.A. Singleton, K.J. Clifton , J. Totten, and **J. Orrego Oñate**. Assessing th
 L.J. Basso, C.E. Cortés, **J. Orrego Oñate**. Funciones de Congestión en Corredores Segregados de Buses usando Microsimulación. Presented at the *XVI Congreso Chileno de Ingeniería de Transporte, Santiago, Chile*. August, 2013
 
 ### Workshops
+
+`2024`
+Urban Policy Acceptability - University of Westminster, Molde University, and Universitat Autònoma de Barcelona.  Casa Convalescència, UAB. September, 2017.
 
 `2017`
 Walk, don't run? Advancing the state of the practice in pedestrian demand modeling workshop.  *9th Annual Transportation and Communities Summit, Portland, OR.* September, 2017.
@@ -166,7 +173,7 @@ Developing Data, Models, and Tools to Enhance Transportation Equity.
 Transferability & forecasting Pedestrian Index of the Environment for modeling applications.
 
 `2015-2016`
-*Universidad de Chile & German DLR / Institute of Transport Research. Universidad de Chile, Santiago, Chile*.                                             
+*Universidad de Chile & German DLR / Institute of Transport Research. Universidad de Chile, Santiago, Chile*.                          
 Changing Mobility in Cutting Edge Cities.
 
 ## Fellowships
@@ -224,6 +231,8 @@ Native: Spanish
 
 Proficiency: English
 
-Last updated: October 2024
+Basic: Catalan
+
+Last updated: November 2024
 
 
