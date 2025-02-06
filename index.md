@@ -59,17 +59,20 @@ title: Jaime Orrego's CV
 
 ### Journals
 
+`2025`
+**J. Orrego-Oñate** & O. Marquet. The role of perceived and objective accessibility in shaping walking behavior: Insights from mid-sized Spanish cities. *Transportation Research Part A: Policy and Practice*, 192, 104340. doi: [https://doi.org/10.1016/j.urbmob.2024.100092](https://doi.org/10.1016/j.tra.2024.104340)
+
 `2024`
-**J. Orrego Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi: https://doi.org/10.1016/j.urbmob.2024.100092
+**J. Orrego-Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi: https://doi.org/10.1016/j.urbmob.2024.100092
 
 `2023`
-**J. Orrego Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
+**J. Orrego-Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
 
 `2019`
-Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
+Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego-Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
 
 `2018`
-P. Singleton, J. Totten, **J. Orrego Oñate**, R. Schneider, and K.J. Clifton. Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models. *Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35)*. doi: https://doi.org/10.1177/0361198118773555. 2018
+P. Singleton, J. Totten, **J. Orrego-Oñate**, R. Schneider, and K.J. Clifton. Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models. *Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35)*. doi: https://doi.org/10.1177/0361198118773555. 2018
 
 ### Reports
 
@@ -89,6 +92,23 @@ K.J. Clifton, **J. Orrego Oñate**, P. Singleton, and R.J. Schneider. Transferab
 
 `2018`
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density Differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Proceedings of 97th Annual Meeting of the Transportation Research Board. Washington, D.C. January 7-11*. 2018
+
+## Public Engagement / Media Contributions
+`2024`
+**J. Orrego Oñate** and R. Hurtubia. Supermanzanas para ciudades chilenas. *La Tercera*. Available at: https://www.latercera.com/la-tercera-sabado/noticia/columna-de-jaime-orrego-y-ricardo-hurtubia-supermanzanas-para-ciudades-chilenas/
+
+`2015`
+**J. Orrego Oñate** and V. Rocco. Transporte público en la capital. *La Tercera*. 2015 Available at: https://www.latercera.com/noticia/transporte-publico-en-la-capital/
+
+`2015`
+**J. Orrego Oñate**. Tomo partido por el transporte público. El Dinamo. Available at:https://www.eldinamo.cl/opinion/2015/11/27/tomo-partido-por-el-transporte-publico/
+
+`2014`
+**J. Orrego Oñate** Ley Emilia. *El Mercurio*. 2014
+
+`2014`
+**J. Orrego Oñate**. La política reactiva del Estado chileno: ¿Se puede planificar en Chile?. Available at: https://www.eldinamo.cl/opinion/2014/09/16/la-politica-reactiva-del-estado-chileno-se-puede-planificar-en-chile/
+
 
 ## Presentations
 
@@ -157,7 +177,7 @@ Social Transport Equity by Planning for Proximity.
 ECOMOV: La transición ecológica en la movilidad y el transporte. El papel de la proximidad urbana. 
 
 `2023-2024`
-*Ministerio de Ciencia, innovación y universidades. Pruebas de Concepto 2022. Universitat Autonoma de Barceloa, Barcelona, Spain*.
+*Ministerio de Ciencia, Innovación y Universidades. Pruebas de Concepto 2022. Universitat Autonoma de Barceloa, Barcelona, Spain*.
 Herramientas cartográficas para la gestión sostenible de la movilidad urbana (MOBITOOLS).
 
 `2020`
@@ -223,7 +243,7 @@ Valparaiso, Chile
 ## Referee
 
 `2018-present`
-**Journals**: *Environment and Planning B: Urban Analytics and City Science*, *Journal of Transportation and Land Use*, *Transportation Research Board*
+**Journals**: *Urban Transitions*,*Urban Planning*,*Environment and Planning B: Urban Analytics and City Science*, *Journal of Transportation and Land Use*, *Transportation Research Board*
 
 ## Languages
 
