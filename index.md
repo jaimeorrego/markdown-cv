@@ -60,19 +60,19 @@ title: Jaime Orrego's CV
 ### Journals
 
 `2025`
-**J. Orrego-Oñate** & O. Marquet. The role of perceived and objective accessibility in shaping walking behavior: Insights from mid-sized Spanish cities. *Transportation Research Part A: Policy and Practice*, 192, 104340. doi: [https://doi.org/10.1016/j.urbmob.2024.100092](https://doi.org/10.1016/j.tra.2024.104340)
+**J. Orrego-Oñate** & O. Marquet. The role of perceived and objective accessibility in shaping walking behavior: Insights from mid-sized Spanish cities. *Transportation Research Part A: Policy and Practice*, 192, 104340. doi: [https://doi.org/10.1016/j.tra.2024.104340](https://doi.org/10.1016/j.tra.2024.104340)
 
 `2024`
-**J. Orrego-Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi: https://doi.org/10.1016/j.urbmob.2024.100092
+**J. Orrego-Oñate**, M.B. Fernández-Núñez, and O. Marquet. Diminishing returns of additional active travel infrastructure: Evaluating Barcelona's Decade of Sustainable Transportation Progress. *Journal of Urban Mobility*, 6, 100092. doi: [https://doi.org/10.1016/j.urbmob.2024.100092](https://doi.org/10.1016/j.urbmob.2024.100092)
 
 `2023`
-**J. Orrego-Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: https://doi.org/10.5198/jtlu.2023.2115 
+**J. Orrego-Oñate**, K.J. Clifton, and R. Hurtubia. Spatial segmentation of mode choice behavior: a latent class approach based on local and regional accessibility. *Journal of Transportation and Land Use 16.1: 105-129*. 2023 doi: [https://doi.org/10.5198/jtlu.2023.2115 ](https://doi.org/10.5198/jtlu.2023.2115) 
 
 `2019`
-Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego-Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: https://doi.org/10.1177/0361198119841854. 2019
+Q. Zhang, K.J. Clifton, R. Moeckel, and **J. Orrego-Oñate**. Household Trip Generation and the Built Environment: Does More Density Mean More Trips? *Transportation Research Record: Journal of the Transportation Research Board, 2673(5)*. doi: [https://doi.org/10.1177/0361198119841854](https://doi.org/10.1177/0361198119841854)
 
 `2018`
-P. Singleton, J. Totten, **J. Orrego-Oñate**, R. Schneider, and K.J. Clifton. Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models. *Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35)*. doi: https://doi.org/10.1177/0361198118773555. 2018
+P. Singleton, J. Totten, **J. Orrego-Oñate**, R. Schneider, and K.J. Clifton. Making Strides: State of the Practice of Pedestrian Forecasting in Regional Travel Models. *Transportation Research Record: Journal of the Transportation Research Board, Transportation Research Board of the National Academies, Washington, D.C., 2018. 2672(35)*. doi: [https://doi.org/10.1177/0361198118773555](https://doi.org/10.1177/0361198118773555).
 
 ### Reports
 
@@ -253,6 +253,6 @@ Proficiency: English
 
 Basic: Catalan
 
-Last updated: November 2024
+Last updated: Febraury 2025
 
 
