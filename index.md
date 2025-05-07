@@ -160,6 +160,12 @@ Walk, don't run? Advancing the state of the practice in pedestrian demand modeli
 
 ### Others
 
+`2025` 
+**J. Orrego Oñate**. Del espacio vial al peatonal: ¿Puede el rediseño urbano fomentar caminar?. *Reflexiones desde Barcelona Movilidad Urbana y Espacio Público – Rompiendo Paradigmas at Instituto de estudios Urbanos y Territoriales*. April, 2025
+
+`2025` 
+**J. Orrego Oñate**. De la Movilidad al Apoyo Electoral: Aceptabilidad de las TransformacionesUrbanas en Barcelona. *Seminario Viernes de Transporte at Civil Engineering Department - Universidad de Chile*. April, 2025
+
 `2018` 
 **J. Orrego Oñate**, P. Singleton, J. Totten, R. Schneider, and K. Clifton. Density differences: Exploring Built Environment Relationships with Walking Between and Within Metropolitan Areas. *Friday Transportation Seminar at Portland State University*. February, 2018
 
@@ -193,8 +199,19 @@ Developing Data, Models, and Tools to Enhance Transportation Equity.
 Transferability & forecasting Pedestrian Index of the Environment for modeling applications.
 
 `2015-2016`
-*Universidad de Chile & German DLR / Institute of Transport Research. Universidad de Chile, Santiago, Chile*.                          
-Changing Mobility in Cutting Edge Cities.
+*Universidad de Chile & German DLR / Institute of Transport Research. Universidad de Chile, Santiago, Chile*.                       Changing Mobility in Cutting Edge Cities.
+
+## Research Stays
+
+`2025`
+Visitng Scholar at *Departamento de Ingeniería Civil, Universidad de Chile*. Santiago, Chile. Hosted by Dr. Cristián Cortés.
+
+`2024`
+Visitng Scholar at *Centro de Desarrollo Urbano Sustentable (CEDEUS), at FADEU, Pontificia Universidad Católica de Chile*. Santiago, Chile. Hosted by Dr. Rircardo Hurtubia.
+
+`2019`
+Visitng Scholar at *Professorship of Travel Behavior, TUM School of Engineering and Design
+Technical University of Munich (TUM)*. Munich, Germany. Hosted by the research group led by Prof. Dr. Rolf Moeckel
 
 ## Fellowships
 
@@ -243,7 +260,7 @@ Valparaiso, Chile
 ## Referee
 
 `2018-present`
-**Journals**: *Urban Transitions*,*Urban Planning*,*Environment and Planning B: Urban Analytics and City Science*, *Journal of Transportation and Land Use*, *Transportation Research Board*
+**Journals**: *Urban Transitions*, *Case Studies on Transport Policy*, *Urban Planning*, *Environment and Planning B: Urban Analytics and City Science*, *Journal of Transportation and Land Use*, *Transportation Research Board*
 
 ## Languages
 
@@ -253,6 +270,6 @@ Proficiency: English
 
 Basic: Catalan
 
-Last updated: Febraury 2025
+Last updated: May 2025
 
 
