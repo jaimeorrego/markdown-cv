@@ -158,7 +158,7 @@ Urban Policy Acceptability - University of Westminster, Molde University, and Un
 `2017`
 Walk, don't run? Advancing the state of the practice in pedestrian demand modeling workshop.  *9th Annual Transportation and Communities Summit, Portland, OR.* September, 2017.
 
-### Others
+### Seminars
 
 `2025` 
 **J. Orrego Oñate**. Del espacio vial al peatonal: ¿Puede el rediseño urbano fomentar caminar?. *Reflexiones desde Barcelona Movilidad Urbana y Espacio Público – Rompiendo Paradigmas at Instituto de estudios Urbanos y Territoriales*. April, 2025
